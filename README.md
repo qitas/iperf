@@ -1,10 +1,11 @@
-[![sites](adv/Qi.png)](http://www.qitas.cn)
+[![sites](qitas/Qi.png)](http://www.qitas.cn)
 ---
-# RTL wifi
+
+# RTL资料汇总
 
 ## 描述
 
-RTL wifi 代码
+该工程汇总RTL开发需要的各种资料和示例代码，是一个有用的工具库
 
 ---
 ## 组成
@@ -20,7 +21,9 @@ RTL wifi 驱动和调试
 ---
 ## 说明
 
+2018-10-15: 添加更多的芯片手册，更改工程结构
+2018-10-12: 规范相关代码和仓库
 
 ---
 ## 为锻造最美之器
-[![sites](adv/qitas.png)](http://www.qitas.cn)
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
