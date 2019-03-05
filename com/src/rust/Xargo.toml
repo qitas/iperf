@@ -1,5 +1,0 @@
-[target.thumbv7m-none-eabi.dependencies.alloc]
-alloc = {}
-
-[target.thumbv7m-none-eabi.dependencies.collections]
-collections = {}

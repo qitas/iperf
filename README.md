@@ -1,29 +1,19 @@
-[![sites](qitas/Qi.png)](http://www.qitas.cn)
----
+# [IFTTT](https://github.com/qitas/IFTTT) 
 
-# RTL资料汇总
+#### qitas@qitas.cn
 
-## 描述
+## [描述](https://github.com/qitas/IFTTT/wiki) 
 
-该工程汇总RTL开发需要的各种资料和示例代码，是一个有用的工具库
+IFTTT是“if this then that”的缩写，让网络行为能够引发连锁反应，宗旨是“Put the internet to work for you”
 
----
-## 组成
+### [RTL方案](RTL/)
 
-####  openocd
-
-RTL wifi 驱动和调试
-
-####  make
+#### [RTL8710实现](https://github.com/mcuyun/RTL8710)
 
 
 
 ---
-## 说明
 
-2018-10-15: 添加更多的芯片手册，更改工程结构
-2018-10-12: 规范相关代码和仓库
+### 锻造最美之器
 
----
-## 为锻造最美之器
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
