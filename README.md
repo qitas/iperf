@@ -14,9 +14,7 @@ IFTTT目前主要发生在互联网领域，主要涉及信息方面，还没有
 
 ### [嵌入式解决方案](https://github.com/sochub) 
 
-* [RTL方案](https://github.com/sochub/RTL) 
-* [ESP方案](https://github.com/sochub/ESP) 
-* [RDA方案](https://github.com/sochub/RDA) 
+* [工程资源](project/) 
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
 ## 锻造最美之器
